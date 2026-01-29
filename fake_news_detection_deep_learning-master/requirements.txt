@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+beautifulsoup4
+requests
+scrapy
+selenium
+jupyter
+ipython
+gensim
+scikit-learn
